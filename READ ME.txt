@@ -1,0 +1,2 @@
+This python code solves the 1D convection-diffusion Source free problem using FVM and UDS. Its a contd. of project 4 where Central differencing fails to produce accurate results for a peclet number of 5.
+
